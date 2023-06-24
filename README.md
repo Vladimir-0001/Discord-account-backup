@@ -1,2 +1,7 @@
-# Discord-account-backup
-saves and stores basic information from your discord account such as friends, blocked users and guilds
+# Project Title
+
+⚠️ **UNDER CONSTRUCTION** ⚠️
+
+This project is currently being completely remade. Please refrain from making updates or using it in its current state.
+
+More updates coming soon. Thanks for your patience!
